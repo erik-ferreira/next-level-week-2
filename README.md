@@ -27,7 +27,7 @@ Se você é iniciante e tem dúvida se deve usar Typescript, ou não participou 
 ## :thinking: Como acessar a API?
 
 <h1 align="center">
-    <img src=".github/insomnia.png" width="100%">
+    <img src=".github/insomnia.PNG" width="100%">
 </h1>
 
 Baixo o [Insomnia](https://insomnia.rest), clique em `Application > Preferences > Data > Import Data > From URL`, e cole a seguinte url `https://github.com/erik-ferreira/next-level-week-2/blob/main/Insomnia_2021-02-15.json`
